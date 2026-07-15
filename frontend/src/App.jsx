@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Landing from './pages/Landing.jsx'
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-     whats up my nigga  
+     <Landing/>
     </>
   )
 }
