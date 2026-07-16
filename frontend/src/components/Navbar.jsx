@@ -3,7 +3,7 @@
 
 const Navbar = ()=>{
     return(
-        <div className="sticky top-0 w-full h-18 flex items-center justify-between bg-[#13242C]">
+        <div className="sticky z-50 top-0 w-full h-18 flex items-center justify-between bg-[#13242C]">
             <p className="text-[#A9ACAD] hover:text-white text-lg shadow-md ml-3">
                 <a href="#hero">
                     Vansh Chauhan
@@ -23,7 +23,7 @@ const Navbar = ()=>{
                         </a>
                     </li>
                     <li className="hover:text-white">
-                        <a href="#">
+                        <a href="#projects">
                             Projects
                         </a>
                     </li>

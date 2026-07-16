@@ -4,7 +4,7 @@ import EmailIcon from '@mui/icons-material/Email';
 
 const Hero = ()=>{
     return (
-        <section id = "hero">
+        <section id = "hero" className='scroll-mt-24'>
             <div className="flex w-full max-w-7xl mx-auto items-center justify-between gap-24 mt-20 px-12">
             <div className="flex flex-col items-start gap-4">
                 <p className="text-6xl text-slate-700 font-bold">Hello, I'm</p>
