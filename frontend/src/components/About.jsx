@@ -2,13 +2,13 @@ const About = () => {
   return (
     <section
       id="about"
-      className="max-w-4xl mx-auto px-8 py-32"
+      className="max-w-4xl mx-auto px-6 sm:px-8 py-16 sm:py-24 lg:py-32"
     >
-      <h2 className="text-4xl font-semibold text-slate-700 text-center">
+      <h2 className="text-2xl sm:text-3xl lg:text-4xl font-semibold text-slate-700 text-center">
         About
       </h2>
 
-      <div className="mt-10 space-y-8 text-xl leading-[1.8] text-slate-600 ">
+      <div className="mt-8 sm:mt-10 space-y-6 sm:space-y-8 text-base sm:text-lg lg:text-xl leading-[1.7] sm:leading-[1.8] text-slate-600">
         <p>
           I'm Vansh Chauhan, a B.Tech Information Technology undergraduate
           with a CGPA of 8.07. I'm passionate about building scalable web
