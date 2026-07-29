@@ -17,8 +17,8 @@ const Contact = () => {
           </h3>
 
           <p className="mt-4 sm:mt-5 text-base sm:text-lg leading-7 sm:leading-8 text-slate-600">
-            Have a project in mind or want to discuss potential opportunities?
-            I'm always open to new collaborations and conversations.
+            Have a project in mind or exploring new opportunities?
+            I'd love to hear your ideas and discuss how we can work together.
           </p>
 
           <div className="mt-6 sm:mt-8 space-y-5 sm:space-y-8">
