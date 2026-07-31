@@ -2,7 +2,7 @@ const Skills = () => {
   const skillCategories = [
     {
       title: "Frontend",
-      skills: ["React.js", "Tailwind css", "Redux tool kit", "Java Script", "CSS3", "React Router"],
+      skills: ["React.js", "Tailwind css", "Bootstrap","Redux tool kit", "Java Script", "CSS3", "React Router"],
     },
     {
       title: "Backend",
