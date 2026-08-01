@@ -3,11 +3,11 @@ import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 
 const projects = [
     {
-        name: "Sync Space",
-        description: "Built a full-stack real-time communication platform using MongoDB, Express.js, React, and Node.js. Integrated WebRTC for peer-to-peer video calling, Socket.IO for real-time messaging and signaling, and JWT for secure authentication. Designed a responsive interface with features including one-to-one video calls, instant chat, and user authentication.",
+        name: "Scribble Kit",
+        description: "This video showcases my real-time collaborative drawing application. The project is built with TypeScript, WebSockets , PostgreSQL, Prisma ORM, Node.js, Express.js  enabling seamless real-time collaboration, efficient data persistence, JWT authentication, and a robust backend architecture.",
         image: "/Screenshot 2026-07-16 123300.png",
-        liveLink: "https://sync-space-eight-red.vercel.app/",
-        gitHubLink: "https://github.com/vansh-chauhan01/SyncSpace",
+        liveLink: "/thumbnail.png",
+        gitHubLink: "https://github.com/vansh-chauhan01/drawingApp",
     },
     {
         name: "Video Share",
@@ -29,7 +29,7 @@ const Projects = () => {
                 {projects.map((project) => (
                     <div
                         key={project.name}
-                        className="w-full sm:w-[26rem] lg:w-115 h-auto rounded-2xl border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-2 hover:shadow-xl"
+                        className="w-full sm:w-104 lg:w-115 h-auto rounded-2xl border border-gray-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-2 hover:shadow-xl"
                     >
                         {/* Image */}
                         <img
