@@ -4,9 +4,9 @@ import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 const projects = [
     {
         name: "Scribble Kit",
-        description: "This video showcases my real-time collaborative drawing application. The project is built with TypeScript, WebSockets , PostgreSQL, Prisma ORM, Node.js, Express.js  enabling seamless real-time collaboration, efficient data persistence, JWT authentication, and a robust backend architecture.",
-        image: "/Screenshot 2026-07-16 123300.png",
-        liveLink: "/thumbnail.png",
+        description: "Developed a fullStack application for real-time collaborative Canvas application. The project is built with TypeScript, WebSockets , PostgreSQL, Prisma ORM, Node.js, Express.js  enabling seamless real-time collaboration, efficient data persistence, JWT authentication, and a robust backend architecture.",
+        image: "/thumbnail.png",
+        liveLink: "https://drawing-app-taupe-nu.vercel.app/",
         gitHubLink: "https://github.com/vansh-chauhan01/drawingApp",
     },
     {
