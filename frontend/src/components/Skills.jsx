@@ -6,7 +6,7 @@ const Skills = () => {
     },
     {
       title: "Backend",
-      skills: ["Node.js", "Express.js", "Redis", "typeScript", "WebSockets", "RESTful APIs", "JWT", "Multer"],
+      skills: ["Node.js", "Express.js", "Redis", "typeScript", "WebSockets","RESTful APIs", "JWT", "zod","Multer"],
     },
     {
       title: "Database",
@@ -14,7 +14,7 @@ const Skills = () => {
     },
     {
       title: "DevOps & Tools",
-      skills: ["Git", "GitHub", "Vercel", "Render", "Postman", "Fire Base"],
+      skills: ["Git", "GitHub", "Docker", "Vercel", "Render", "Postman", "Fire Base"],
     },
   ];
 
