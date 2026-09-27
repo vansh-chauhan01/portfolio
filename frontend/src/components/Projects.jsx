@@ -3,6 +3,13 @@ import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 
 const projects = [
     {
+         name: "Orbit",
+        description: "Developed a full-stack real-time AI-powered interview platform using TypeScript, Next.js, Node.js, Express.js, PostgreSQL, and Prisma ORM. Integrated WebRTC for real-time audio communication with AI and implemented JWT-based authentication, Redis for caching, and a scalable backend architecture to support seamless interview sessions.",
+        image: "/Screenshot 2026-09-27 152836.png",
+        liveLink: "https://orbit-psi-ruddy.vercel.app/",
+        gitHubLink: "https://github.com/vansh-chauhan01/job_assist",
+    },
+    {
         name: "Scribble Kit",
         description: "Developed a fullStack application for real-time collaborative Canvas application. The project is built with TypeScript, WebSockets , PostgreSQL, Prisma ORM, Node.js, Express.js  enabling seamless real-time collaboration, efficient data persistence, JWT authentication, and a robust backend architecture.",
         image: "/thumbnail.png",
